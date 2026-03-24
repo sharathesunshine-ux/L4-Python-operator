@@ -1,0 +1,3 @@
+number = 25
+square_root = number**0.5
+print("The Square Root Of ,",number,"is",square_root)
