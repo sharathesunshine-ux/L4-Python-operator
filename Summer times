@@ -1,0 +1,5 @@
+temp = float(input("Enter The Temperature In Celsius"))
+if temp>= 20:
+   print("It's warm enough!. Wear light clothes")
+else:
+   print("It's kinda cold and chilly today!. You should wear a jacket")
